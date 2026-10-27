@@ -1,0 +1,6 @@
+{
+  "name": "FairShift: Decent Work Platform",
+  "description": "UN SDG 8 Decent Work platform empowering frontline workers with transparent shift pay, multilingual voice safety reporting, anonymous feedback, and fatigue monitoring.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
